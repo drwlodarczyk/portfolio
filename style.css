@@ -16,12 +16,26 @@
     }
 }
 
+.gradient-background-2 {
+    background: linear-gradient(180deg, #D3D3D3, #E6E6E6, #F5F5F5, #FFFFFF);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
 h1 {
     color: #d9c8a9;
 }
 
 p {
     color: #d9c8a9;
+}
+
+.col-6 > p {
+    color: #A9977D;
+}
+
+.display-2 {
+    color: #A9977D;
 }
 
 .extra-padding {
@@ -31,4 +45,8 @@ p {
 .rounded {
     height: 200px;
     width: 200px;
+}
+
+ul {
+    width: 450px;
 }
