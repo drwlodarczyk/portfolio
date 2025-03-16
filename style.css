@@ -27,3 +27,8 @@ p {
 .extra-padding {
     padding: 6rem;
 }
+
+.rounded {
+    height: 200px;
+    width: 200px;
+}
