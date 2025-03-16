@@ -72,3 +72,9 @@ ul {
     color: black;
     font-style: italic;
 }
+
+.card-img-top {
+    width: 100%; /* Ensures it fills the card width */
+    height: 180px; /* Keeps a balanced height */
+    object-fit: cover; /* Prevents distortion, crops excess */
+}
