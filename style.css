@@ -48,7 +48,7 @@ p {
 
 .col-6 > p {
     color: #A9977D;
-    width: 75%;
+    width: auto;
 }
 
 .display-2 {
