@@ -48,7 +48,7 @@ p {
 
 .col-6 > p {
     color: #A9977D;
-    width: 1110px;
+    width: 75%;
 }
 
 .display-2 {
@@ -77,8 +77,4 @@ ul {
     width: 100%; /* Ensures it fills the card width */
     height: 100%; /* Keeps a balanced height */
     object-fit: cover; /* Prevents distortion, crops excess */
-}
-
-.p-omnie {
-    width: 75%;
 }
