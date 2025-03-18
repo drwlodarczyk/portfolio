@@ -78,3 +78,7 @@ ul {
     height: 100%; /* Keeps a balanced height */
     object-fit: cover; /* Prevents distortion, crops excess */
 }
+
+.p-omnie {
+    width: auto;
+}
