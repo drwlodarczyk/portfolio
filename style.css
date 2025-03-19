@@ -80,3 +80,10 @@ ul {
     height: 100%; /* Keeps a balanced height */
     object-fit: cover; /* Prevents distortion, crops excess */
 }
+
+@media (max-width: 800px) {
+    .card {
+        width: 75%;
+        height: auto;
+    }
+}
