@@ -56,6 +56,10 @@ p {
     color: #A9977D;
 }
 
+.o-mnie {
+    min-width: 150px;
+}
+
 .extra-padding {
     padding: 6rem;
 }
