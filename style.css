@@ -83,7 +83,7 @@ ul {
 
 @media (max-width: 800px) {
     .card {
-        width: 75%;
+        width: 75% !important;
         height: auto;
     }
 }
