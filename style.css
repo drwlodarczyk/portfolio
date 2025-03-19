@@ -48,7 +48,8 @@ p {
 
 .col-6 > p {
     color: #A9977D;
-    width: 75%;
+    width: 90%;
+    min-width: 450px;
 }
 
 .display-2 {
@@ -65,7 +66,8 @@ p {
 }
 
 ul {
-    width: 450px;
+    max-width: 450px;
+    min-width: 350px;
 }
 
 .dark-color {
